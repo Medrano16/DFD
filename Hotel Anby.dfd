@@ -1,0 +1,726 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+27
+'Bienvenidos al Hotel Anby'
+4
+1
+34
+'La capacidad de cuartos es de 40'
+4
+1
+23
+'Hacer una reservacion'
+4
+1
+49
+'¿Para cuantas personas nesecita la reservacion?'
+5
+1
+1
+a
+4
+1
+33
+'¿Cuantas habitaciones necesita?'
+5
+1
+1
+b
+4
+1
+38
+'¿Por cuanto tiempo seria su reserva?'
+5
+1
+1
+t
+6
+3
+8
+Personas
+1
+a
+12
+Habitaciones
+1
+b
+6
+Tiempo
+1
+t
+4
+1
+139
+'Usted necesita una reservacion para:
+N° de personas:', Personas,' 
+N° de habitaciones: ', Habitaciones,'
+Dias de reserva: ', Tiempo,' '
+4
+1
+64
+'Tipos de habitaciones disponibles:
+Sencillas
+Dobles
+Triples'
+4
+1
+21
+'Habitacion sencilla'
+4
+1
+126
+'Una habitación sencilla cuenta con una sola cama, una mesa de noche, un baño el cual incluye regadera y una pequeña estancia'
+4
+1
+30
+'Opcion 1 = Si
+Opcion 2 = No'
+6
+2
+2
+si
+1
+1
+2
+no
+1
+2
+5
+1
+2
+si
+7
+0
+1
+5
+no>si
+4
+1
+32
+'Mostrar las demas habitaciones'
+4
+1
+21
+'Habitaciones dobles'
+4
+1
+154
+'Habitación doble es con dos camas o una cama matrimonial o King size, para dos personas, cuenta con una pequeña estancia, una mini nevera, un baño doble'
+4
+1
+34
+'Opcion 1: Es si
+Opcion 2: Es no'
+6
+2
+2
+si
+1
+1
+2
+no
+1
+2
+5
+1
+2
+si
+7
+0
+1
+5
+no>si
+4
+1
+22
+'Habitaciones triples'
+4
+1
+191
+'Las habitaciones triples cuentan con 3 camas individuales o con una cama de matrimonio + una cama individual, dos baños individuales, un escritorio, una pequeña estancia, una pequeña nevera'
+4
+1
+34
+'Opcion 1: Es si
+Opcion 2: Es no'
+6
+2
+2
+si
+1
+1
+2
+no
+1
+2
+5
+1
+2
+si
+7
+0
+1
+5
+si<no
+13
+4
+1
+56
+'Precio de la habitación triple es de $175.00 por noche'
+4
+1
+63
+'Confirmar modo de pago:
+Opcion 1: MasterCard
+Opcion 2: Visa'
+6
+2
+10
+MasterCard
+1
+1
+4
+Visa
+1
+2
+5
+1
+2
+si
+7
+0
+1
+5
+no>si
+4
+1
+33
+'Ingrese el numero de la tarjeta'
+5
+1
+1
+x
+4
+1
+34
+'Nombre del usuario de la tarjeta'
+5
+1
+6
+nombre
+4
+1
+24
+'Ingresar numero de DUI'
+5
+1
+1
+n
+6
+3
+6
+Numero
+1
+x
+6
+Nombre
+6
+nombre
+3
+DUI
+1
+n
+4
+1
+98
+'Sus datos son: 
+Numero de tarjeta: ', Numero,' 
+Nombre: ', Nombre,' 
+Numero de DUI: ', DUI,' '
+13
+4
+1
+33
+'Ingrese el numero de la tarjeta'
+5
+1
+1
+x
+4
+1
+34
+'Nombre del usuario de la tarjeta'
+5
+1
+6
+nombre
+4
+1
+24
+'Ingresar numero de DUI'
+5
+1
+1
+n
+6
+3
+6
+Numero
+1
+x
+6
+Nombre
+6
+nombre
+3
+DUI
+1
+n
+4
+1
+96
+'Sus datos son: 
+Numero de tarjeta ', Numero,' 
+Nombre ', Nombre,' 
+Numero de DUI: ', DUI,' '
+13
+4
+1
+32
+'Confirmacion de la reservacion'
+4
+1
+38
+'Nombre bajo el que estara la reserva'
+5
+1
+1
+y
+6
+1
+6
+precio
+7
+175*b*t
+4
+1
+374
+'RESERVA EN EL HOTEL ANBY:
+Usted necesita una reservacion para:
+N° de personas:', Personas,' 
+N° de habitaciones: ', Habitaciones,'
+Dias de reserva: ', Tiempo,'
+
+Datos de pago: 
+Numero de tarjeta: ', Numero,' 
+Nombre: ', Nombre,' 
+Numero de DUI: ', DUI,'
+
+Confirmacion de reserva:
+La reserva a nombre de: ', y,'
+El precio a pagar por la reserva: $ ', precio,' '
+13
+13
+4
+1
+55
+'Precio de la habitación doble es de $125.00 por noche'
+4
+1
+63
+'Confirmar modo de pago:
+Opcion 1: MasterCard
+Opcion 2: Visa'
+6
+2
+10
+MasterCard
+1
+1
+4
+Visa
+1
+2
+5
+1
+2
+si
+7
+0
+1
+5
+no>si
+4
+1
+33
+'Ingrese el numero de la tarjeta'
+5
+1
+1
+x
+4
+1
+34
+'Nombre del usuario de la tarjeta'
+5
+1
+6
+nombre
+4
+1
+24
+'Ingresar numero de DUI'
+5
+1
+1
+n
+6
+3
+6
+Numero
+1
+x
+6
+Nombre
+6
+nombre
+3
+DUI
+1
+n
+4
+1
+98
+'Sus datos son: 
+Numero de tarjeta: ', Numero,' 
+Nombre: ', Nombre,' 
+Numero de DUI: ', DUI,' '
+13
+4
+1
+33
+'Ingrese el numero de la tarjeta'
+5
+1
+1
+x
+4
+1
+34
+'Nombre del usuario de la tarjeta'
+5
+1
+6
+nombre
+4
+1
+24
+'Ingresar numero de DUI'
+5
+1
+1
+n
+6
+3
+6
+Numero
+1
+x
+6
+Nombre
+6
+nombre
+3
+DUI
+1
+n
+4
+1
+98
+'Sus datos son: 
+Numero de tarjeta: ', Numero,' 
+Nombre: ', Nombre,' 
+Numero de DUI: ', DUI,' '
+13
+4
+1
+32
+'Confirmacion de la reservacion'
+4
+1
+38
+'Nombre bajo el que estara la reserva'
+5
+1
+1
+y
+6
+1
+6
+precio
+7
+125*b*t
+4
+1
+40
+'El precio a pagar es de $ ', precio,' '
+4
+1
+374
+'RESERVA EN EL HOTEL ANBY:
+Usted necesita una reservacion para:
+N° de personas:', Personas,' 
+N° de habitaciones: ', Habitaciones,'
+Dias de reserva: ', Tiempo,'
+
+Datos de pago: 
+Numero de tarjeta: ', Numero,' 
+Nombre: ', Nombre,' 
+Numero de DUI: ', DUI,'
+
+Confirmacion de reserva:
+La reserva a nombre de: ', y,'
+El precio a pagar por la reserva: $ ', precio,' '
+13
+13
+4
+1
+51
+'El precio de la habitacion es de $75.00 por noche'
+4
+1
+63
+'Confirmar modo de pago:
+Opcion 1: MasterCard
+Opcion 2: Visa'
+6
+2
+10
+MasterCard
+1
+1
+4
+Visa
+1
+2
+5
+1
+2
+si
+7
+0
+1
+5
+si<no
+4
+1
+33
+'Ingrese el numero de la tarjeta'
+5
+1
+1
+x
+4
+1
+34
+'Nombre del usuario de la tarjeta'
+5
+1
+6
+nombre
+4
+1
+24
+'Ingresar numero de DUI'
+5
+1
+1
+n
+6
+3
+6
+Numero
+1
+x
+6
+Nombre
+6
+nombre
+3
+DUI
+1
+n
+4
+1
+98
+'Sus datos son: 
+Numero de tarjeta: ', Numero,' 
+Nombre: ', Nombre,' 
+Numero de DUI: ', DUI,' '
+13
+4
+1
+33
+'Ingrese el numero de la tarjeta'
+5
+1
+1
+x
+4
+1
+34
+'Nombre del usuario de la tarjeta'
+5
+1
+6
+nombre
+4
+1
+24
+'Ingresar numero de DUI'
+5
+1
+1
+n
+6
+3
+6
+Numero
+1
+x
+6
+Nombre
+6
+nombre
+3
+DUI
+1
+n
+4
+1
+98
+'Sus datos son: 
+Numero de tarjeta: ', Numero,' 
+Nombre: ', Nombre,' 
+Numero de DUI: ', DUI,' '
+13
+4
+1
+32
+'Confirmacion de la reservacion'
+4
+1
+38
+'Nombre bajo el que estara la reserva'
+5
+1
+1
+y
+6
+1
+6
+precio
+6
+75*b*t
+4
+1
+40
+'El precio a pagar es de $ ', precio,' '
+4
+1
+374
+'RESERVA EN EL HOTEL ANBY:
+Usted necesita una reservacion para:
+N° de personas:', Personas,' 
+N° de habitaciones: ', Habitaciones,'
+Dias de reserva: ', Tiempo,'
+
+Datos de pago: 
+Numero de tarjeta: ', Numero,' 
+Nombre: ', Nombre,' 
+Numero de DUI: ', DUI,'
+
+Confirmacion de reserva:
+La reserva a nombre de: ', y,'
+El precio a pagar por la reserva: $ ', precio,' '
+13
+4
+1
+79
+'Desea recibir un comprobante de pago a su corre:
+Opcion 1: si
+Opcion 2 : no'
+6
+2
+2
+si
+1
+1
+2
+no
+1
+2
+5
+1
+2
+si
+7
+0
+1
+5
+si<no
+13
+4
+1
+76
+'Se le enviara una copia a su correo, por favor confirmar si lo ha recibido'
+4
+1
+59
+'Opcion 1: Es para recibido
+Opcion 2: Es para no recibido'
+6
+2
+2
+Si
+1
+1
+2
+No
+1
+2
+5
+1
+2
+si
+7
+0
+1
+5
+si<no
+4
+1
+24
+'Se le enviara de nuevo'
+13
+4
+1
+23
+'Gracias por confirmar'
+13
+13
+4
+1
+25
+'Estamos a sus servicios'
+4
+1
+12
+'Hotel Anby'
+1
